@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "/gKXtC3xgCq5gXE+NwFqIshl3Th5Zky6s8GjpU9Z6wixcqjsnbAy0cB+swyI7ZqRKwyMdE4+Qf48sQRUATpe4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\EmekaEwelike\\source\\repos\\ConsoleAppAssignment\\ConsoleAppAssignment\\ConsoleAppAssignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EmekaEwelike\\.nuget\\packages\\consoletables\\2.4.2\\consoletables.2.4.2.nupkg.sha512",
+    "C:\\Users\\EmekaEwelike\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\EmekaEwelike\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\EmekaEwelike\\.nuget\\packages\\restsharp\\107.3.0\\restsharp.107.3.0.nupkg.sha512",
+    "C:\\Users\\EmekaEwelike\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\EmekaEwelike\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\EmekaEwelike\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\EmekaEwelike\\.nuget\\packages\\system.reflection.typeextensions\\4.3.0\\system.reflection.typeextensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\EmekaEwelike\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\EmekaEwelike\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\EmekaEwelike\\.nuget\\packages\\system.text.json\\5.0.0\\system.text.json.5.0.0.nupkg.sha512",
+    "C:\\Users\\EmekaEwelike\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
